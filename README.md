@@ -5,3 +5,5 @@ I had the most difficulty with the 'digital-marketing-metting' image that it emb
 I am submitting my assignment now, but I don't believe my page is compatible for all screen sizes. 
 
 I changed the div's to semantic tags where I saw fit.
+
+Live Link: https://avatl.github.io/refractory-hw1.github.io/
